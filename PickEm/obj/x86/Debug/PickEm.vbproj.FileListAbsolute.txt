@@ -1,0 +1,41 @@
+C:\Users\instructor\AppData\Local\Temporary Projects\PickEm\bin\Debug\PickEm.exe
+C:\Users\instructor\AppData\Local\Temporary Projects\PickEm\bin\Debug\PickEm.pdb
+C:\Users\instructor\AppData\Local\Temporary Projects\PickEm\bin\Debug\PickEm.xml
+C:\Users\instructor\AppData\Local\Temporary Projects\PickEm\obj\x86\Debug\PickEm.frmMain.resources
+C:\Users\instructor\AppData\Local\Temporary Projects\PickEm\obj\x86\Debug\PickEm.Resources.resources
+C:\Users\instructor\AppData\Local\Temporary Projects\PickEm\obj\x86\Debug\PickEm.vbproj.GenerateResource.Cache
+C:\Users\instructor\AppData\Local\Temporary Projects\PickEm\obj\x86\Debug\PickEm.exe
+C:\Users\instructor\AppData\Local\Temporary Projects\PickEm\obj\x86\Debug\PickEm.xml
+C:\Users\instructor\AppData\Local\Temporary Projects\PickEm\obj\x86\Debug\PickEm.pdb
+C:\Users\instructor\documents\visual studio 2010\Projects\PickEm\PickEm\obj\x86\Debug\PickEm.exe
+C:\Users\instructor\documents\visual studio 2010\Projects\PickEm\PickEm\obj\x86\Debug\PickEm.xml
+C:\Users\instructor\documents\visual studio 2010\Projects\PickEm\PickEm\obj\x86\Debug\PickEm.pdb
+C:\Users\instructor\documents\visual studio 2010\Projects\PickEm\PickEm\bin\Debug\PickEm.exe
+C:\Users\instructor\documents\visual studio 2010\Projects\PickEm\PickEm\bin\Debug\PickEm.pdb
+C:\Users\instructor\documents\visual studio 2010\Projects\PickEm\PickEm\bin\Debug\PickEm.xml
+C:\Users\instructor\documents\visual studio 2010\Projects\PickEm\PickEm\obj\x86\Debug\PickEm.frmMain.resources
+C:\Users\instructor\documents\visual studio 2010\Projects\PickEm\PickEm\obj\x86\Debug\PickEm.Resources.resources
+C:\Users\instructor\documents\visual studio 2010\Projects\PickEm\PickEm\obj\x86\Debug\PickEm.vbproj.GenerateResource.Cache
+C:\Users\lab\Documents\PickEm\PickEm\obj\x86\Debug\PickEm.exe
+C:\Users\lab\Documents\PickEm\PickEm\obj\x86\Debug\PickEm.xml
+C:\Users\lab\Documents\PickEm\PickEm\obj\x86\Debug\PickEm.pdb
+C:\Users\lab\Documents\PickEm\PickEm\bin\Debug\PickEm.exe
+C:\Users\lab\Documents\PickEm\PickEm\bin\Debug\PickEm.pdb
+C:\Users\lab\Documents\PickEm\PickEm\bin\Debug\PickEm.xml
+C:\Users\lab\Documents\PickEm\PickEm\obj\x86\Debug\PickEm.frmMain.resources
+C:\Users\lab\Documents\PickEm\PickEm\obj\x86\Debug\PickEm.frmPickEm.resources
+C:\Users\lab\Documents\PickEm\PickEm\obj\x86\Debug\PickEm.Resources.resources
+C:\Users\lab\Documents\PickEm\PickEm\obj\x86\Debug\PickEm.vbproj.GenerateResource.Cache
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\obj\x86\Debug\PickEm.exe
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\obj\x86\Debug\PickEm.xml
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\obj\x86\Debug\PickEm.pdb
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\bin\Debug\PickEm.exe
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\bin\Debug\PickEm.pdb
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\bin\Debug\PickEm.xml
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\obj\x86\Debug\PickEm.frmMain.resources
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\obj\x86\Debug\PickEm.frmPickEm.resources
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\obj\x86\Debug\PickEm.Resources.resources
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\obj\x86\Debug\PickEm.vbproj.GenerateResource.Cache
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\bin\Debug\PickEm.accdb
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\bin\Debug\PickEm.exe.config
+C:\Users\lab\Desktop\dilek\PickEm\PickEm\PickEm\obj\x86\Debug\PickEm.frmStats.resources
